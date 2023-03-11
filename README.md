@@ -235,7 +235,7 @@ Note that you will need to download a dataset of traffic signs to run this progr
 
 ```bash
 pip3 install -r requirements.txt
-python3 traffic.py gtsrb
+python traffic.py gtsrb
 
 ```
 
