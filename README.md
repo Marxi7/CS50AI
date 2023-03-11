@@ -220,7 +220,7 @@ Pile 1: 3
 Pile 2: 5
 Pile 3: 7
 
-AI's Turn
+AI\'s Turn
 AI chose to take 1 from pile 2.
 ```
 
