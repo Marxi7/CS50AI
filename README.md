@@ -53,7 +53,7 @@ python runner.py
 
 ### Knights
 
-In the Knights project, I implemented an AI to solve logic puzzles using propositional logic and inference by enumeration. The program solves a puzzle in which you have to place knights on a chessboard such that no two knights threaten each other. To run the program, navigate to the Knights directory and run the following command:
+In the Knights project, I implemented an AI to solve logic puzzles. To run the program, navigate to the Knights directory and run the following command:
 
 ```bash
 python puzzle.py
