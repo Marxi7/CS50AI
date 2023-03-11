@@ -179,7 +179,7 @@ The program should also generate an image :
 
 ### Shopping
 
-In the Shopping project, I implemented an AI to optimize an online shopping list by finding the cheapest combination of items from different online stores. The program uses a graph-based approach to find the optimal solution. To run the program, navigate to the Shopping directory and run the following command:
+In the Shopping project, I implemented an AI to predict whether online shopping customers will complete a purchase. To run the program, navigate to the Shopping directory and run the following command:
 
 ```bash
 python shopping.py shopping.csv
@@ -197,7 +197,7 @@ True Negative Rate: 90.55%
 
 ### Nim
 
-In the Nim project, I implemented an AI to play the game of Nim optimally using the minimax algorithm. The program allows you to play against the AI or watch the AI play against itself. To run the program, navigate to the Nim directory and run the following command:
+In the Nim project, I wrote an AI that teaches itself to play Nim through reinforcement learning. The program allows you to play against the AI. To run the program, navigate to the Nim directory and run the following command:
 
 ```bash
 python play.py
@@ -227,7 +227,7 @@ AI chose to take 1 from pile 2.
 
 ### Traffic
 
-In the Traffic project, I implemented a convolutional neural network to classify traffic signs. The program trains the network on a dataset of traffic sign images and then uses the trained model to classify new images of traffic signs. To run the program, navigate to the Traffic directory and run the following commands:
+In the Traffic project, I implemented a convolutional neural network to classify traffic signs. The program trains the network on a dataset of traffic sign images and identify which traffic sign appears in a photograph.To run the program, navigate to the Traffic directory and run the following commands:
 
 
 Note that you will need to download a dataset of traffic signs to run this program. When in the traffic directory, download the [dataset](https://cdn.cs50.net/ai/2020/x/projects/5/gtsrb.zip).
@@ -271,7 +271,7 @@ Here is my video submission for the program in which you can see the program run
 
 ### Parser
 
-In the Parser project, I implemented a PCFG parser to parse sentences using context-free grammar rules. The program reads in a grammar file and a sentence, and then generates all possible parses of the sentence according to the grammar rules. To run the program, navigate to the Parser directory and run the following command:
+In the Parser project, I wrote an AI to parse sentences and extract noun phrases. To run the program, navigate to the Parser directory and run the following command:
 
 ```bash
 # Your Program should look like this in the terminal 
@@ -292,7 +292,7 @@ holmes
 
 ### Questions
 
-In the Questions project, I implemented a question-answering AI using natural language processing techniques such as named entity recognition and tf-idf search. The program reads in a corpus of text documents and then allows you to ask questions about the documents. To run the program, navigate to the Questions directory and run the following command:
+In the Questions project, I implemented a question-answering AI using natural language processing techniques such tf-idf search. The program reads in a corpus of text documents and then allows you to ask questions about the documents. To run the program, navigate to the Questions directory and run the following command:
 
 ```bash
 python questions.py corpus
