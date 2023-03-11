@@ -17,9 +17,9 @@ To run the program, navigate to the Degrees directory and run the following comm
 python degrees.py <dataset> <source_actor> <target_actor>
 ```
 
-- <dataset>: Choose the dataset to use. Options are small, medium, and large.
-- <source_actor>: Name of the starting actor. 
-- <target_actor>: Name of the target actor.
+- dataset: Choose the dataset to use. Options are small, medium, and large.
+- source_actor: Name of the starting actor. 
+- target_actor: Name of the target actor.
 
 ```bash
 # Your Program should look like this in the terminal 
