@@ -47,7 +47,7 @@ To run the program, navigate to the 'tictactoe' directory and run the following 
 ```bash
 python runner.py
 ```
-![TicTacToe](/projects/images_projects/tictactoe.png)
+![TicTacToe](/images_projects/tictactoe.png)
 
 
 ### Knights
