@@ -37,6 +37,8 @@ Name: Jennifer Lawrence
 ```
 
 ### Tic-Tac-Toe
+    
+![TicTacToe](/images_projects/tictactoe.png)
 
 In the Tic-Tac-Toe project, I implemented an AI to play Tic-Tac-Toe optimally using the minimax algorithm. The program allows you to play against the AI or watch the AI play against itself.
 
@@ -47,7 +49,6 @@ To run the program, navigate to the 'tictactoe' directory and run the following 
 ```bash
 python runner.py
 ```
-![TicTacToe](/images_projects/tictactoe.png)
 
 
 ### Knights
@@ -77,13 +78,14 @@ Puzzle 3
 
 
 ### Minesweeper
+    
+![Minesweeper](/images_projects/minesweeper.png)
 
 In the Minesweeper project, I implemented an AI to play Minesweeper using knowledge representation and inference. The program uses logical inference to deduce which cells are safe to click and which cells contain mines. To run the program, navigate to the Minesweeper directory and run the following command:
 
 ```bash
 python runner.py
 ```
-![Minesweeper](/images_projects/minesweeper.png)
 
 
 ### PageRank
