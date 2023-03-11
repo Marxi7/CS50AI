@@ -320,7 +320,7 @@ These projects provided me with a solid foundation in the field of artificial in
 
 
 
-# How to Run each Project {#how-to-run-each-project}
+# How to Run each Project
 
 In order to run each project, you need to install the dependencies found in the requirements.txt file located in the main folder (CS50AI) containing each project folders. 
 
