@@ -3,11 +3,9 @@
 
 ## Description
 
-This repository contains my solutions to the projects for the CS50AI course offered by Harvard University on the edX platform. CS50AI is an introductory course on Artificial Intelligence that covers a range of topics such as search, knowledge representation, probabilistic inference, and machine learning.
+This repository contains my solutions to the projects for the CS50AI course offered by Harvard University on the edX platform. CS50AI is an introductory course on Artificial Intelligence that covers a range of topics such as search, knowledge representation, probabilistic inference, and machine learning. ([Click here](#how-to-run-each-project) to learn how to run each project)
 
 ## Projects
-This repository contains the following projects ([Click here](#how-to-run-each-project) to learn how to run each project).
-:
 
 ### Degrees
 
@@ -16,10 +14,10 @@ The Degrees project finds the shortest path between two actors in a database of 
 To run the program, navigate to the Degrees directory and run the following command:
 
 ```bash
-python degrees.py <option> <source_actor> <target_actor>
+python degrees.py <dataset> <source_actor> <target_actor>
 ```
 
-- <option>: Choose the dataset to use. Options are small, medium, and large.
+- <dataset>: Choose the dataset to use. Options are small, medium, and large.
 - <source_actor>: Name of the starting actor. Use quotes if there are spaces in the name.
 - <target_actor>: Name of the target actor. Use quotes if there are spaces in the name.
 
