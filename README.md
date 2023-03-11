@@ -83,7 +83,7 @@ In the Minesweeper project, I implemented an AI to play Minesweeper using knowle
 ```bash
 python runner.py
 ```
-![Minesweeper](/projects/images_projects/minesweeper.png)
+![Minesweeper](/images_projects/minesweeper.png)
 
 
 ### PageRank
@@ -170,7 +170,7 @@ $ python generate.py data/structure1.txt data/words1.txt output.png
 ██████████████
 ```
 The program should also generate an image :
-![Crossword](/projects/images_projects/crossword.png)
+![Crossword](/images_projects/crossword.png)
 
 
 
