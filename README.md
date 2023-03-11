@@ -90,7 +90,7 @@ python runner.py
 
 ### PageRank
 
-In the PageRank project, I implemented the PageRank algorithm to rank web pages by importance. The program reads in a corpus of web pages and computes the PageRank scores for each page using iterative matrix multiplication. To run the program, navigate to the PageRank directory and run the following command:
+In the PageRank project, I implemented the PageRank algorithm to rank web pages by importance. To run the program, navigate to the PageRank directory and run the following command:
 
 ```bash
 python pagerank.py corpus0
