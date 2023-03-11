@@ -35,11 +35,12 @@ Name: Jennifer Lawrence
 2: Brendan Gleeson and Michael Fassbender starred in Trespass Against Us
 3: Michael Fassbender and Jennifer Lawrence starred in X-Men: First Class
 ```
+---
 
 ### Tic-Tac-Toe
-    
-![TicTacToe](/images_projects/tictactoe.png)
 
+![TicTacToe](/images_projects/tictactoe.png)
+    
 In the Tic-Tac-Toe project, I implemented an AI to play Tic-Tac-Toe optimally using the minimax algorithm. The program allows you to play against the AI or watch the AI play against itself.
 
 In the repository, you will find two folders for Tic-Tac-Toe: 'tictactoe' and 'tictactoe_without_alpha_beta_pruning'. The former implements the Alpha-Beta-Pruning Method for a more efficient and faster solution, while the latter does not use Alpha-Beta-Pruning and is therefore slower and less efficient.
@@ -50,6 +51,8 @@ To run the program, navigate to the 'tictactoe' directory and run the following 
 python runner.py
 ```
 
+
+---
 
 ### Knights
 
@@ -76,17 +79,18 @@ Puzzle 3
     C is a Knight
 ```
 
+---
 
 ### Minesweeper
-    
-![Minesweeper](/images_projects/minesweeper.png)
 
 In the Minesweeper project, I implemented an AI to play Minesweeper using knowledge representation and inference. The program uses logical inference to deduce which cells are safe to click and which cells contain mines. To run the program, navigate to the Minesweeper directory and run the following command:
 
 ```bash
 python runner.py
 ```
+![Minesweeper](/images_projects/minesweeper.png)
 
+---
 
 ### PageRank
 
@@ -110,7 +114,7 @@ PageRank Results from Iteration
   3.html: 0.2202
   4.html: 0.1307
 ```
-
+---
 
 ### Heredity
 
@@ -148,7 +152,7 @@ Lily:
     True: 0.0000
     False: 1.0000
 ```
-
+---
 
 ### Crossword
 
@@ -174,8 +178,7 @@ $ python generate.py data/structure1.txt data/words1.txt output.png
 The program should also generate an image :
 ![Crossword](/images_projects/crossword.png)
 
-
-
+---
 
 ### Shopping
 
@@ -193,7 +196,7 @@ Incorrect: 844
 True Positive Rate: 41.02%
 True Negative Rate: 90.55%
 ```
-
+---
 
 ### Nim
 
@@ -224,6 +227,7 @@ AI Turn
 AI chose to take 1 from pile 2.
 ```
 
+---
 
 ### Traffic
 
@@ -267,7 +271,7 @@ Epoch 10/10
 Here is my video submission for the program in which you can see the program running live:
 [Click here to watch the demo](https://youtu.be/g12J4hHZP7Q)
 
-
+---
 
 ### Parser
 
@@ -289,6 +293,7 @@ Noun Phrase Chunks
 holmes
 ```
 
+---
 
 ### Questions
 
